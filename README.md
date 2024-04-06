@@ -10,5 +10,3 @@ Cookbok (for refernece):
    2. Read the docs: https://mongodb.github.io/chatbot
    3. Demo source code: https://github.com/mongodb-university/cookbook-chat/
    4. Demo site: https://cookbook-chat.onrender.com/
-
-Testing ...
